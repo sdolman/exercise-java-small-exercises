@@ -1,6 +1,6 @@
 # Pair Generator
 
-It is common, as we've done in class, to frequently switch pair partners and see that everyone on a team has the opportunity to pair with everyone else.
+It is common, as we've done in class, to frequently switch pair partners so that everyone on a team has the opportunity to pair with everyone else.
 
 Choose six students from your class, and pair every third student (1st and 4th, 2nd and 5th, 3rd and 6th). For example:
 
