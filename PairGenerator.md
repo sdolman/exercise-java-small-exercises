@@ -21,7 +21,7 @@ public String getNavigator() {
 }
 ```
 
-* create a class that generates pair partners, which should implement the following method:
+* create a class called PairGenerator that generates pair partners. It should implement the following method:
 
 ```java
 public Collection<Pair> generate() {
